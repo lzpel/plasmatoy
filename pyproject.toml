@@ -1,0 +1,9 @@
+[project]
+name = "plasmatoy"
+version = "0.1.0"
+description = "Home-made plasma globe experiments"
+requires-python = ">=3.14"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "schemdraw>=0.23",
+]
