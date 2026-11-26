@@ -5,7 +5,18 @@
 - 12V usbまたはシガーソケットから電源を取る
 - シリンダー表面を雷が走っているように見えることが要件
 
-![img](https://private-user-images.githubusercontent.com/18492524/718408481-fb40cf00-6960-478c-9c27-7100a594e514.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTU1ODkxMTcsIm5iZiI6MTc5NTU4ODgxNywicGF0aCI6Ii8xODQ5MjUyNC83MTg0MDg0ODEtZmI0MGNmMDAtNjk2MC00NzhjLTljMjctNzEwMGE1OTRlNTE0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTI1VDA2NDAxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE4YjIwMGUyNDkyYWRmMTA3YTU4MWNlYTcxZjY5MDU1MjA5YWRlNDIxNTVlM2I3NzgxZTRiMDRmMDZmMTE4NzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.Dzw0VSY25CD1L9VwE5i07mO1RVFhw7PXKHsE4QXv-bY)
+![img](https://github.com/user-attachments/assets/fb40cf00-6960-478c-9c27-7100a594e514)
+
+## 購入
+
+### ポンプ ─ ホース ─ バルブ ─ T字（真空計）─ タケノコ変換 ─ ゴム管 ─ ガラス排気口
+
+- 真空ポンプ 4800円:https://jp.mercari.com/shops/product/2JYrS7stMz2pu74uF2nMNp
+	- WEIMALL A68N10
+	- https://github.com/user-attachments/assets/181646c4-0ee0-4290-84fd-c161c2a93fe4
+- ホースとバルブ https://jp.mercari.com/item/m27967269826
+- 真空計測器
+	- [aliexpress1](https://ja.aliexpress.com/item/1005013250326643.html?spm=a2g0o.productlist.main.11.4e805328NhSQ3F&algo_pvid=27da4710-6f25-42e4-9ed3-2d37917989eb&algo_exp_id=27da4710-6f25-42e4-9ed3-2d37917989eb-10&pdp_ext_f=%7B%22order%22%3A%22121%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21JPY%2120932%2110051%21%21%21128.99%2161.94%21%40212e37eb17955937683534311e0c93%2112000060667426057%21sea%21JP%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Acee88a2c%3Bm03_new_user%3A-29895%3BpisId%3A5000000220123542&curPageLogUid=uIim4Uqr85bi&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005013250326643%7C_p_origin_prod%3A)
 
 ## 段取り
 
